@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{AAAC4BB8-1EEB-403D-9150-BFF8C5D16839}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ProniaTask PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Areas/Manage/Controllers/SliderController.cs">
+    <Files>
+      <File FileName="Areas/Manage/Views/Dashboard/Index.cshtml" Line="348" Column="1" />
+      <File FileName="Areas/Manage/Views/Shared/_Layout.cshtml" Line="433" Column="1" />
+      <File FileName="Areas/Manage/Views/Shared/_ViewImports.cshtml" Line="3" Column="1" />
+      <File FileName="Areas/Manage/Views/Shared/_ViewStart.cshtml" Line="5" Column="1" />
+      <File FileName="Areas/Manage/Controllers/DashboardController.cs" Line="14" Column="27" />
+      <File FileName="Areas/Manage/Controllers/SliderController.cs" Line="14" Column="1" />
+      <File FileName="Areas/Manage/Controllers/AppDbContext.cs" Line="17" Column="2" />
+      <File FileName="Models/Category.cs" Line="10" Column="1" />
+      <File FileName="Models/Client.cs" Line="6" Column="3" />
+      <File FileName="Areas/Manage/Views/Slider/Create.cshtml" Line="15" Column="31" />
+      <File FileName="Areas/Manage/Views/Slider/Index.cshtml" Line="45" Column="7" />
+      <File FileName="Areas/Manage/Views/Slider/Update.cshtml" Line="37" Column="7" />
+      <File FileName="Areas/Manage/Controllers/Product.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProniaTask" expanded="True">
+            <Node name="ProniaTask">
+              <Node name="Areas">
+                <Node name="Manage">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="SliderController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views">
+                    <Node name="Dashboard" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                    <Node name="Slider" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+</Properties>
